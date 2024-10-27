@@ -1,7 +1,5 @@
 # Movie Recommender System
 
-![Movie Recommender](movie-recommender-system-tmdb-dataset-main/Image/(369) Movie Recommender System Project _ Content Based Recommender System with Heroku Deployment - YouTube - Brave 27-10-2024 17_42_13.png)
-
 ## Abstract
 In recent years, personalized recommendation systems have become essential for streaming platforms, helping users discover content that aligns with their preferences. This project presents a **Movie Recommender System** built using **Streamlit** for the frontend, with **CountVectorizer** to generate recommendations based on text similarity. The system aims to provide users with a straightforward, interactive interface for finding movies similar to those they enjoy.
 
