@@ -20,6 +20,6 @@ By integrating Streamlit as the front end, this recommender system offers an acc
 - **Backend/Recommendation Engine**: Python, CountVectorizer
 - **Data**: Movie metadata including genres, summaries, etc.
 
-##Run the application:
+## Run the application:
 - **streamlit run app.py**
 
